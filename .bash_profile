@@ -12,7 +12,6 @@ export PATH=/usr/local/bin:$PATH
 
 # Navigation
 alias cdw="cd ~/work"
-alias sshb="ssh gauthierd@192.168.1.193"
 
 # Git aliases
 # Git aliases, because who wants to type 'git' every time?
